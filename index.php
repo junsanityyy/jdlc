@@ -59,7 +59,7 @@
 								<div class="media">
 									<img src="img/me.jpg" width="250" height="250" class="img-fluid rounded-top mx-5 d-none d-lg-block">
 									<div class="media-body">
-										<h3 class="display-4 ml-4">I'm Manolito R Dela Cruz Jr.</h3>
+										<h3 class="display-4 ml-4">I'm Jun Dela Cruz Jr.</h3>
 										<p class="text-muted ml-4">Web Developer</p>
 										<div class="container">
 											<table class="table table-responsive ml-2">
