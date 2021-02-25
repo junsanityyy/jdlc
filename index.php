@@ -90,11 +90,11 @@
 							</div>
 						</div>
 						<div class="card-footer bg-danger">
-							<a target="new" href="../facebook.com/junsanityyy"><i class="fa fa-facebook fa-2x mx-3"></i></a>
-							<a target="new" href="../instagram.com/superjunnnn"><i class="fa fa-instagram fa-2x mx-3"></i></a>
+							<a target="new" href="https://facebook.com/junsanityyy"><i class="fa fa-facebook fa-2x mx-3"></i></a>
+							<a target="new" href="https://instagram.com/_junsanity"><i class="fa fa-instagram fa-2x mx-3"></i></a>
 							<a href="#"><i class="fa fa-pinterest fa-2x mx-3"></i></a>
 							<a href="mailto:junsanityyy666@gmail.com"><i class="fa fa-google fa-2x mx-3"></i></a>
-							<a href="#"><i class="fa fa-github fa-2x mx-3"></i></a>
+							<a target="new" href="https://github.com/junsanityyy/"><i class="fa fa-github fa-2x mx-3"></i></a>
 						</div>
 					</div>
 				</div>
